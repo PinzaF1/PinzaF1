@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👨‍💻 Daniel Diaz
 
-<!--
-**PinzaF1/PinzaF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software Fullstack**
 
-Here are some ideas to get you started:
+Soy desarrollador orientado a la construcción de soluciones **backend, frontend, web y móvil**.  
+Actualmente enfoco mi aprendizaje y desarrollo en tecnologías modernas para crear aplicaciones funcionales, escalables y bien estructuradas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y Lenguajes
+
+### Lenguajes
+- TypeScript
+- Python
+
+### Tecnologías
+- React
+- AdonisJS
+
+---
+
+## 📊 Estadísticas
+
+<p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=PinzaF1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinzaF1&theme=tokyonight&layout=compact&custom_title=Lenguajes%20más%20usados&langs_count=8" 
+  />
+</p>
+
+---
+
+## 💡 Enfoque
+
+Me interesa el desarrollo de proyectos en las áreas de:
+
+- Backend
+- Frontend
+- Desarrollo Web
+- Desarrollo Móvil
+
+---
+
+## 📌 Actualmente
+
+Actualmente estoy fortaleciendo mis habilidades en:
+
+- Arquitectura de aplicaciones web
+- Desarrollo de interfaces modernas
+- Lógica de negocio y backend
+- Buenas prácticas de programación
+
+---
+
+## 📫 Contacto
+
+Próximamente...
