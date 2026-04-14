@@ -22,14 +22,6 @@ Actualmente enfoco mi crecimiento en tecnologías modernas para crear aplicacion
 
 ---
 
-## 📊 Estadísticas
-
-<p>
-  Actualmente estoy mostrando mi actividad con una tarjeta de racha de contribuciones.
-</p>
-
----
-
 ## 🔥 Racha de contribuciones
 
 <p align="center">
