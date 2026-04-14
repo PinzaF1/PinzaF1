@@ -24,15 +24,8 @@ Actualmente enfoco mi crecimiento en tecnologías modernas para crear aplicacion
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PinzaF1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinzaF1&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+<p>
+  Actualmente estoy mostrando mi actividad con una tarjeta de racha de contribuciones.
 </p>
 
 ---
@@ -40,8 +33,9 @@ Actualmente enfoco mi crecimiento en tecnologías modernas para crear aplicacion
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=PinzaF1&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=PinzaF1&theme=tokyonight&hide_border=true&locale=es"
+    alt="Racha de contribuciones de Daniel Diaz"
   />
 </p>
 
