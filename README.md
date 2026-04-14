@@ -10,20 +10,11 @@ Actualmente enfoco mi crecimiento en tecnologías modernas para crear aplicacion
 ## 🚀 Tecnologías y Lenguajes
 
 <p align="left">
-  <!-- Lenguajes -->
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <!-- Frontend -->
   <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- Backend -->
   <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <!-- Framework -->
   <img alt="AdonisJS" title="AdonisJS" width="40px" src="https://cdn.simpleicons.org/adonisjs/5A45FF" />
-
-  <!-- Herramientas -->
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="VSCode" title="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -35,12 +26,22 @@ Actualmente enfoco mi crecimiento en tecnologías modernas para crear aplicacion
 
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=PinzaF1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
+    src="https://github-readme-stats.vercel.app/api?username=PinzaF1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="180em"
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinzaF1&theme=tokyonight&layout=compact&custom_title=Lenguajes%20más%20usados&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinzaF1&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=PinzaF1&theme=tokyonight&hide_border=true" 
   />
 </p>
 
