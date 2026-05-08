@@ -12,7 +12,6 @@
   <a href="mailto:carlosdanielpinzadiaz@gmail.com">
     <img src="https://img.shields.io/badge/Email-carlosdanielpinzadiaz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PinzaF1&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="visitas al perfil" />
 </p>
 
 ---
