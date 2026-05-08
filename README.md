@@ -55,15 +55,6 @@ Actualmente estoy fortaleciendo mis habilidades en:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PinzaF1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinzaF1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 🔥 Racha de contribuciones
 
 <p align="center">
@@ -79,14 +70,6 @@ Actualmente estoy fortaleciendo mis habilidades en:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinzaF1&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad" />
-</p>
-
----
-
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PinzaF1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
