@@ -54,17 +54,6 @@ Actualmente estoy fortaleciendo mis habilidades en:
 
 ---
 
-## 🔥 Racha de contribuciones
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PinzaF1&theme=tokyonight&hide_border=true&locale=es"
-    alt="Racha de contribuciones de Daniel Diaz"
-  />
-</p>
-
----
-
 ## 📈 Actividad reciente
 
 <p align="center">
