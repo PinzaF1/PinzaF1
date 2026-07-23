@@ -68,7 +68,3 @@ Actualmente estoy fortaleciendo mis habilidades en:
 - 📧 **carlosdanielpinzadiaz@gmail.com**
 
 ---
-
-<p align="center">
-  Hecho con dedicación por <strong>Daniel Diaz</strong> 🚀
-</p>
